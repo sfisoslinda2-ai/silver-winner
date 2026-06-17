@@ -1,4 +1,5 @@
-# silver-winner
+
+# silver-winner task 1
 The goal of this task was to use Nmap to identify open ports and services running on a target machine and assess their security significance.       
 
 This command (nmap - sV -O 192.168.0.107) detects services versions and attempts to identify the operating system.  
